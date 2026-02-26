@@ -12,9 +12,9 @@ class TarotBot(commands.Bot):
 
     async def setup_hook(self):
         # Load extensions/commands from the cmd folder
-        for filename in os.listdir('./cmd'):
+        for filename in os.listdir('./cogs'):
             if filename.endswith('.py') and not filename.startswith('__'):
-                await self.load_extension(f'cmd.{filename[:-3]}')
+                await self.load_extension(f'cogs.{filename[:-3]}')
                 print(f"Loaded extension: {filename}")
 
 bot = TarotBot()
