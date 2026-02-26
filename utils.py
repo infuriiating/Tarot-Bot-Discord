@@ -73,17 +73,14 @@ def create_card_embeds(card, is_reversed, title_prefix=""):
     if 'zodiac_sign' in card:
         embed1.add_field(name="Astrology", value=card['zodiac_sign'], inline=False)
     
+    if 'meanings' in card and card['meanings']:
+        embed1.add_field(name="Keywords", value=", ".join(card['meanings']), inline=False)
+    
     image_path = get_card_image_path(card)
     filename = os.path.basename(image_path)
     embed1.set_image(url=f"attachment://{filename}")
     
     embed2 = discord.Embed(color=embed_color)
-    
-    if 'symbols' in card and card['symbols']:
-        embed2.add_field(name="Symbols", value=", ".join(card['symbols']), inline=False)
-        
-    if 'meanings' in card and card['meanings']:
-        embed2.add_field(name="Keywords", value=", ".join(card['meanings']), inline=False)
         
     meaning = card['reversed_meaning'] if is_reversed else card['upright_meaning']
     embed2.add_field(name="Meaning", value=meaning, inline=False)
