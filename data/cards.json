@@ -1,0 +1,1753 @@
+[
+  {
+    "name": "The Fool",
+    "number": 0,
+    "symbols": [
+      "Dog",
+      "Sun",
+      "Cliff",
+      "Rose",
+      "Knapsack"
+    ],
+    "meanings": [
+      "Beginnings",
+      "Innocence",
+      "Spontaneity",
+      "Free Spirit"
+    ],
+    "suit": "Major Arcana",
+    "element": "Air",
+    "zodiac_sign": "Aquarius",
+    "upright_meaning": "The Fool is the first card in the tarot deck and represents new beginnings, innocence, and being open to whatever life has in store. The figure on the card is a young man, carelessly walking towards a cliff, staring up at the sky. He carries a white rose in his left hand which symbolizes freedom and pure intentions. The small bundle in his right hand, indicates his uncomplicated approach to life.",
+    "reversed_meaning": "Recklessness, risk-taking, inconsiderateness.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Magician",
+    "number": 1,
+    "symbols": [
+      "Table",
+      "Symbols of Suits",
+      "Infinity Sign",
+      "Wand"
+    ],
+    "meanings": [
+      "Manifestation",
+      "Resourcefulness",
+      "Power",
+      "Inspired Action"
+    ],
+    "suit": "Major Arcana",
+    "element": "Air",
+    "zodiac_sign": "Gemini & Virgo",
+    "upright_meaning": "The Magician is associated with energy, potential and the manifestation of one's desires. It represents the infinite potential and creative energy that exists within us all. It symbolizes the ability to manifest our desires into reality by focusing our thoughts. When The Magician appears in a Tarot reading, it urges you to tap into your inner resources and harness your skills and abilities to achieve your goals. It reminds us that we have the power to create our own destiny and encourages us to take action with confidence and determination. The Magician signifies that we already have everything we need to succeed within ourselves. It\u2019s message empowers us to embrace our innate talents and pursue our ambitions with focus and determination. Divinatory Meaning: This card symbolizes the meetings of the physical and spiritual worlds, and the conduit converting spiritual energy into real-world action.",
+    "reversed_meaning": "Manipulation, poor planning, untapped talents.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The High Priestess",
+    "number": 2,
+    "symbols": [
+      "Moon",
+      "Pillars",
+      "Torah Scroll",
+      "Pomegranate Curtain"
+    ],
+    "meanings": [
+      "Intuition",
+      "Sacred Knowledge",
+      "Divine Feminine",
+      "The Subconscious Mind"
+    ],
+    "suit": "Major Arcana",
+    "element": "Water",
+    "zodiac_sign": "Cancer",
+    "upright_meaning": "The High Priestess invites you to trust your inner voice and embrace the mysteries within. She represents intuition, wisdom, and the subconscious mind. When this card appears upright, its a sign to seek knowledge beyond the obvious and to listen closely to your dreams and gut feelings. Patience and quiet reflection are your allies nowanswers will come when youre ready to receive them. This card also highlights secrets or hidden influences at play, suggesting that not everything is as it seems on the surface.",
+    "reversed_meaning": "Hidden agendas, need to listen to inner voice.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Empress",
+    "number": 3,
+    "symbols": [
+      "Wheat",
+      "Scepter",
+      "Shield with Venus",
+      "Forest",
+      "Waterfall"
+    ],
+    "meanings": [
+      "Femininity",
+      "Beauty",
+      "Nature",
+      "Nurturing",
+      "Abundance"
+    ],
+    "suit": "Major Arcana",
+    "element": "Earth",
+    "zodiac_sign": "Taurus & Libra",
+    "upright_meaning": "The Empress is the third tarot card in the Major Arcana. She is associated with femininity, fertility, motherhood and abundance. The Empress is a loving and nurturing figure who represents the fertility of the Earth. This powerful goddess brings new life into the world.  The Empress is a positive card which indicates growth and the abundance of nature. She creates new life and brings prosperity. The Empress urges you to take care of your physical body, embrace natural remedies and work to re-establish your connection with the natural world.",
+    "reversed_meaning": "Creative block, dependence on others.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Emperor",
+    "number": 4,
+    "symbols": [
+      "Throne",
+      "Ram's Heads",
+      "Ankh",
+      "Scepter",
+      "Mountains"
+    ],
+    "meanings": [
+      "Authority",
+      "Establishment",
+      "Structure",
+      "A Father Figure"
+    ],
+    "suit": "Major Arcana",
+    "element": "Fire",
+    "zodiac_sign": "Aries",
+    "upright_meaning": "The Emperor represents authority, structure, and stability. It embodies leadership, discipline, and the ability to create order from chaos. This card encourages taking charge, setting clear boundaries, and building a solid foundation for success. It often points to a paternal figure or the influence of strong, reliable guidance.",
+    "reversed_meaning": "Tyranny, rigidity, coldness.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Hierophant",
+    "number": 5,
+    "symbols": [
+      "Triple Crown",
+      "Key",
+      "Followers",
+      "Staff"
+    ],
+    "meanings": [
+      "Spiritual Wisdom",
+      "Religious Beliefs",
+      "Conformity",
+      "Tradition",
+      "Institutions"
+    ],
+    "suit": "Major Arcana",
+    "element": "Earth",
+    "zodiac_sign": "Taurus",
+    "upright_meaning": "The Hierophant card in tarot represents traditional values, conformity to established institutions, and seeking guidance from authorities, spiritual guides or mentors. It signifies the importance of following established social norms and seeking wisdom from sources of authority or tradition. This card can also indicate the need for spiritual guidance or the influence of organized religion in a person's life. Divinatory Meaning: The Hierophant stands for tradition and convention. It can represent marriage in an arranged setup. It can also mean a teacher or counselor who will help in learning.",
+    "reversed_meaning": "Rebellion, subversiveness, new approaches.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Lovers",
+    "number": 6,
+    "symbols": [
+      "Angel",
+      "Sun",
+      "Two People",
+      "Mountain",
+      "Snake and Tree"
+    ],
+    "meanings": [
+      "Love",
+      "Harmony",
+      "Relationships",
+      "Values Alignment",
+      "Choices"
+    ],
+    "suit": "Major Arcana",
+    "element": "Air",
+    "zodiac_sign": "Gemini",
+    "upright_meaning": "The Lovers card represents harmony, love, and meaningful connections. It speaks to relationships that are deep, balanced, and built on mutual respect and understanding. Beyond romance, it can point to important choices and moral decisions, emphasizing alignment with your true values. When The Lovers appear, it often suggests that a significant relationship or decision will profoundly impact your path.",
+    "reversed_meaning": "Disharmony, imbalance, misalignment of values.",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "The Chariot",
+    "number": 7,
+    "symbols": [
+      "Chariot",
+      "Sphinxes",
+      "Armor",
+      "Starry Canopy",
+      "Wand"
+    ],
+    "meanings": [
+      "Control",
+      "Willpower",
+      "Success",
+      "Action",
+      "Determination"
+    ],
+    "suit": "Major Arcana",
+    "element": "Water",
+    "zodiac_sign": "Cancer",
+    "upright_meaning": "The Chariot represents triumph through determination, willpower, and control. It reflects a journey or forward movement where focused energy and confidence overcome obstacles. This card encourages harnessing your inner strength, staying disciplined, and steering your life in the direction you desire. It\u2019s about asserting control without aggression and maintaining balance between opposing forces.",
+    "reversed_meaning": "Lack of control, lack of direction, aggression.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Strength",
+    "number": 8,
+    "symbols": [
+      "Lion",
+      "Infinity Sign",
+      "White Robe",
+      "Flower Crown"
+    ],
+    "meanings": [
+      "Strength",
+      "Courage",
+      "Persuasion",
+      "Influence",
+      "Compassion"
+    ],
+    "suit": "Major Arcana",
+    "element": "Fire",
+    "zodiac_sign": "Leo",
+    "upright_meaning": "The Strength card embodies inner courage, compassion, and quiet resilience. It speaks to overcoming obstacles through patience, gentle control, and unwavering willpower rather than brute force. This card encourages harnessing your inner power with kindness and confidence. It\u2019s about taming your fears, doubts, and raw instincts by embracing calm courage and self-belief. When Strength appears, it reminds you that true power comes from within. This card is all about inner strength and resilience. It represents someone who is able to keep calm in the face of adversity and who is able to draw on their own inner resources to overcome challenges. If you are facing a difficult situation, the Strength card suggests that you have the inner strength to see it through. It's also about having the courage to stand up for yourself and others.",
+    "reversed_meaning": "Self-doubt, weakness, insecurity.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Hermit",
+    "number": 9,
+    "symbols": [
+      "Lantern",
+      "Staff",
+      "Mountain",
+      "Cloak"
+    ],
+    "meanings": [
+      "Soul-searching",
+      "Introspection",
+      "Being Alone",
+      "Inner Guidance"
+    ],
+    "suit": "Major Arcana",
+    "element": "Earth",
+    "zodiac_sign": "Virgo",
+    "upright_meaning": "The Hermit embodies introspection, soul-searching, and inner guidance. When this card appears, it signals the need to step back from the external noise and focus on personal growth, reflection, and wisdom. The Hermit encourages seeking truth within and trusting your inner light to guide you through uncertainty or isolation. It\u2019s a call for solitude, not loneliness\u2014a time to recharge and gain deeper insight.",
+    "reversed_meaning": "Loneliness, withdrawal, being lost.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Wheel of Fortune",
+    "number": 10,
+    "symbols": [
+      "Wheel",
+      "Egyptian Symbols",
+      "Four Creatures",
+      "Serpent",
+      "Anubis"
+    ],
+    "meanings": [
+      "Good Luck",
+      "Karma",
+      "Life Cycles",
+      "Destiny",
+      "Turning Point"
+    ],
+    "suit": "Major Arcana",
+    "element": "Fire",
+    "zodiac_sign": "Sagittarius & Pisces",
+    "upright_meaning": "The Wheel of Fortune is all about cycles, change, and destiny. It reminds us that life is always in motion, and what goes around comes around. This card signals a turning point where fate steps in \u2014 sometimes bringing good luck, sometimes a challenge \u2014 but always pushing you toward growth. It\u2019s a cosmic wink that things are shifting, often beyond our control, inviting us to embrace the flow rather than resist it.",
+    "reversed_meaning": "Bad luck, resistance to change, breaking cycles.",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "Justice",
+    "number": 11,
+    "symbols": [
+      "Scales",
+      "Sword",
+      "Pillars",
+      "Red Robe"
+    ],
+    "meanings": [
+      "Justice",
+      "Fairness",
+      "Truth",
+      "Cause and Effect",
+      "Law"
+    ],
+    "suit": "Major Arcana",
+    "element": "Air",
+    "zodiac_sign": "Libra",
+    "upright_meaning": "The Justice card embodies fairness, truth, and law. It signals the need for balance and taking responsibility for your actions. When Justice appears, it urges honest assessment and making decisions with integrity. This card often relates to legal matters, contracts, or moral dilemmas, reminding you that what you put into the world comes back to you.",
+    "reversed_meaning": "Unfairness, lack of accountability, dishonesty.",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "The Hanged Man",
+    "number": 12,
+    "symbols": [
+      "Gallows (T-shape)",
+      "Halo",
+      "Hanging Leg",
+      "Peaceful Face"
+    ],
+    "meanings": [
+      "Pause",
+      "Surrender",
+      "Letting Go",
+      "New Perspectives"
+    ],
+    "suit": "Major Arcana",
+    "element": "Water",
+    "zodiac_sign": "Pisces",
+    "upright_meaning": "The Hanged Man invites you to pause, surrender, and see things from a new perspective. Often, it suggests a period of waiting, sacrifice, or suspension where forward action is halted to allow for deeper reflection or insight. This card signals a letting go of control and embracing patience, possibly through sacrifice or change in viewpoint, to achieve a breakthrough or enlightenment.",
+    "reversed_meaning": "Stalling, needless sacrifice, fear of change.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Death",
+    "number": 13,
+    "symbols": [
+      "Skeleton",
+      "White Horse",
+      "Sun",
+      "Boat",
+      "Rising Sun"
+    ],
+    "meanings": [
+      "Endings",
+      "Change",
+      "Transformation",
+      "Transition"
+    ],
+    "suit": "Major Arcana",
+    "element": "Water",
+    "zodiac_sign": "Scorpio",
+    "upright_meaning": "The Death card is often misunderstood as a literal sign of death, but it actually represents transformation, endings, and new beginnings. It signals a significant change, the closing of one chapter, and the start of another. This card encourages us to let go of what no longer serves us and embrace the opportunity for renewal and growth. It's about shedding old layers and moving forward with a fresh perspective.",
+    "reversed_meaning": "Resistance to change, inability to move on.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Temperance",
+    "number": 14,
+    "symbols": [
+      "Angel",
+      "Cups and Water",
+      "Path",
+      "Sun/Crown",
+      "Iris Flower"
+    ],
+    "meanings": [
+      "Balance",
+      "Moderation",
+      "Patience",
+      "Purpose"
+    ],
+    "suit": "Major Arcana",
+    "element": "Fire",
+    "zodiac_sign": "Sagittarius",
+    "upright_meaning": "The Temperance card embodies balance, harmony, and moderation. It encourages patience, calm, and the thoughtful blending of different elements to create something new and beautiful. This card suggests finding middle ground, practicing self-control, and maintaining a steady, peaceful approach to challenges. It\u2019s about flow, healing, and the art of mixing opposite forces to achieve equilibrium in life.",
+    "reversed_meaning": "Imbalance, excess, lack of long-term vision.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Devil",
+    "number": 15,
+    "symbols": [
+      "Satyr/Devil",
+      "Chains",
+      "Torch",
+      "Inverted Pentagram"
+    ],
+    "meanings": [
+      "Shadow Self",
+      "Attachment",
+      "Addiction",
+      "Restriction",
+      "Sexuality"
+    ],
+    "suit": "Major Arcana",
+    "element": "Earth",
+    "zodiac_sign": "Capricorn",
+    "upright_meaning": "The Devil tarot card is one of the most misunderstood cards in the tarot deck. Often seen as a symbol of evil, the Devil card actually represents our own personal demons and the darker aspects of our own nature. This card can be a wake-up call to face our fears and conquered them. The Devil card can also represent addiction, obsession, and materialism. This is a card of temptation, and it's warning us to be careful of what we allow to control us. The Devil can also represent a person or situation that is manipulating the querent.  It can be a sign that someone is being taken advantage of, or that they are in danger of being controlled by someone else.",
+    "reversed_meaning": "Releasing limiting beliefs, detachment, freedom.",
+    "yes_no": "No"
+  },
+  {
+    "name": "The Tower",
+    "number": 16,
+    "symbols": [
+      "Burning Tower",
+      "Lightning Bolt",
+      "Falling Figures",
+      "Crown"
+    ],
+    "meanings": [
+      "Sudden Change",
+      "Upheaval",
+      "Chaos",
+      "Revelation",
+      "Awakening"
+    ],
+    "suit": "Major Arcana",
+    "element": "Fire",
+    "zodiac_sign": "Aries",
+    "upright_meaning": "This card is all about change. It can be a positive or negative change, but either way, it's likely to be a big one. The Tower represents a major time of upheaval. It can also suggest that you're about to have a major breakthrough or insight.",
+    "reversed_meaning": "Avoiding disaster, fear of change, delaying the inevitable.",
+    "yes_no": "No"
+  },
+  {
+    "name": "The Star",
+    "number": 17,
+    "symbols": [
+      "Large Star",
+      "Small Stars",
+      "Water Pitchers",
+      "Bird",
+      "Pool of Water"
+    ],
+    "meanings": [
+      "Hope",
+      "Faith",
+      "Purpose",
+      "Renewal",
+      "Spirituality"
+    ],
+    "suit": "Major Arcana",
+    "element": "Air",
+    "zodiac_sign": "Aquarius",
+    "upright_meaning": "Wishes fulfilled. Yes, The Star suggests hope and bright prospects in the future. When the Star card appears, you are likely to find yourself feeling inspired. Have faith in your dreams. This is a beautiful energy of love. You are being guided.",
+    "reversed_meaning": "Lack of faith, despair, disconnection.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Moon",
+    "number": 18,
+    "symbols": [
+      "Moon",
+      "Crayfish",
+      "Wolf and Dog",
+      "Towers",
+      "Path"
+    ],
+    "meanings": [
+      "Illusion",
+      "Fear",
+      "Anxiety",
+      "Subconscious",
+      "Intuition"
+    ],
+    "suit": "Major Arcana",
+    "element": "Water",
+    "zodiac_sign": "Pisces",
+    "upright_meaning": "This card symbolizes the ebb and flow of emotions that can either unite or confuse those involved. It embodies the subconscious realm where hidden desires and fears reside, inviting introspection and self-discovery within relationships. Like the moon's ever-changing phases, these connections can be both enchanting and elusive, oftentimes requiring intuition and trust to navigate. The Moon teaches us that in relationships, we must confront our shadows and face our fears, ultimately leading to a deeper understanding and a stronger bond with our loved ones. It reminds us to be patient, as clarity may only reveal itself when we are ready to embrace the unknown.",
+    "reversed_meaning": "Release of fear, suppressed intuition, clear interpretation.",
+    "yes_no": "No"
+  },
+  {
+    "name": "The Sun",
+    "number": 19,
+    "symbols": [
+      "Sun with Face",
+      "Child",
+      "White Horse",
+      "Sunflowers",
+      "Wall"
+    ],
+    "meanings": [
+      "Positivity",
+      "Fun",
+      "Warmth",
+      "Success",
+      "Vitality"
+    ],
+    "suit": "Major Arcana",
+    "element": "Fire",
+    "zodiac_sign": "Leo",
+    "upright_meaning": "This is one of the most positive cards and a huge Yes! Happiness is the way. This is a time to be playful and optimistic. Trust that things are working out in your favor and let your positive attitude shine through. It\u2019s appearance in a reading is a sign to embrace your inner child and enjoy life.",
+    "reversed_meaning": "Inner child, feeling down, overly optimistic.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Judgement",
+    "number": 20,
+    "symbols": [
+      "Angel with Trumpet",
+      "People Rising",
+      "Coffins",
+      "Ocean",
+      "Mountains"
+    ],
+    "meanings": [
+      "Judgement",
+      "Rebirth",
+      "Inner Calling",
+      "Absolution"
+    ],
+    "suit": "Major Arcana",
+    "element": "Fire",
+    "zodiac_sign": "Libra",
+    "upright_meaning": "When you see the Judgment Tarot card, it's a sign that you need to make an important decision. This decision will have a major impact on your life, so it's not one that you should take lightly. Upright is yes, reversed is no.",
+    "reversed_meaning": "Self-doubt, inner critic, ignoring the call.",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "The World",
+    "number": 21,
+    "symbols": [
+      "Dancing Figure",
+      "Wreath",
+      "Four Creatures",
+      "Ribbons"
+    ],
+    "meanings": [
+      "Completion",
+      "Integration",
+      "Accomplishment",
+      "Travel"
+    ],
+    "suit": "Major Arcana",
+    "element": "Earth",
+    "zodiac_sign": "Leo, Taurus, Aquarius, Scorpio",
+    "upright_meaning": "The World is the final major arcana card in most traditional tarot decks. It is often seen as a representation of completion, fulfillment and answered prayers. The World can represent a period of great achievement and success in your life. This card can also indicate that you are ready to move on to a new phase.",
+    "reversed_meaning": "Seeking closure, shortcuts, delays.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ace of Cups",
+    "number": 1,
+    "symbols": [
+      "Hand from Cloud",
+      "Cup",
+      "Dove",
+      "Lily",
+      "Five Streams"
+    ],
+    "meanings": [
+      "Love",
+      "New Relationships",
+      "Compassion",
+      "Creativity"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Cancer, Scorpio, Pisces",
+    "upright_meaning": "In its purest form, the Ace of Cups mirrors the calm surface of a tranquil lake, reflecting the possibility of a soul-soothing connection. It urges us to dive into the fertile waters of our emotions, allowing ourselves to be vulnerable and open to the vast beauty of love. Whether it be the budding romance of a new partnership or the rekindling of an existing bond, the Ace of Cups encourages us to embrace the potential for profound emotional growth.",
+    "reversed_meaning": "Self-love, intuition, repressed emotions.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Two of Cups",
+    "number": 2,
+    "symbols": [
+      "Two People",
+      "Cups",
+      "Caduceus",
+      "Lion Mask"
+    ],
+    "meanings": [
+      "Unified Love",
+      "Partnership",
+      "Mutual Attraction"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Cancer",
+    "upright_meaning": "This card speaks of a balance between give and take. It signifies mutual respect, understanding, and a willingness to work together towards a common goal. It encourages us to embrace the beauty in diversity and appreciate the unique qualities that each person brings to the table.",
+    "reversed_meaning": "Self-love, disharmony, disconnection.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Three of Cups",
+    "number": 3,
+    "symbols": [
+      "Three Women",
+      "Cups",
+      "Fruit",
+      "Celebration"
+    ],
+    "meanings": [
+      "Celebration",
+      "Friendship",
+      "Creativity",
+      "Community"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Cancer",
+    "upright_meaning": "Yes, this is an invitation to honor your achievements. Take a moment to recognize the progress you have made and the abundance that flows into your life. Reflect on the positive relationships and connections that have contributed to your success.",
+    "reversed_meaning": "Independence, alone time, gossip.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Four of Cups",
+    "number": 4,
+    "symbols": [
+      "Seated Figure",
+      "Three Cups",
+      "One Cup from Hand",
+      "Tree"
+    ],
+    "meanings": [
+      "Meditation",
+      "Contemplation",
+      "Apathy",
+      "Reevaluation"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Cancer",
+    "upright_meaning": "The Four of Cups is a thought-provoking card that invites introspection and contemplation. Its imagery shows a figure sitting under a tree, with three cups placed before them and a fourth being offered by a mystical hand from above. This card symbolizes a moment of emotional stagnation or dissatisfaction. It suggests that the seeker may be overly focused on what they lack or what they perceive as missed opportunities, causing them to become blind to the blessings surrounding them. The Four of Cups serves as a gentle reminder to shift one's perspective, open their eyes to new possibilities, and embrace the gifts that are already present. It encourages the seeker to explore their inner world, reassess their desires, and find a renewed sense of gratitude and contentment.",
+    "reversed_meaning": "Retreat, withdrawal, checking in for self.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Five of Cups",
+    "number": 5,
+    "symbols": [
+      "Cloaked Figure",
+      "Three Spilled Cups",
+      "Two Standing Cups",
+      "Bridge"
+    ],
+    "meanings": [
+      "Regret",
+      "Failure",
+      "Disappointment",
+      "Pessimism"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Scorpio",
+    "upright_meaning": "It signifies a period of disappointment or loss, where we may be mourning a missed opportunity or feeling a sense of sadness. However, the key message of the Five of Cups is to remember that even in the face of adversity, there is still hope and potential for renewal.",
+    "reversed_meaning": "Personal setbacks, self-forgiveness, moving on.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Six of Cups",
+    "number": 6,
+    "symbols": [
+      "Two Children",
+      "Six Cups with Flowers",
+      "Village"
+    ],
+    "meanings": [
+      "Revisiting the Past",
+      "Childhood Memories",
+      "Innocence",
+      "Joy"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Scorpio",
+    "upright_meaning": "This card is a deeply sentimental and nostalgic symbol. The vibrant imagery of this card portrays two children exchanging cups, symbolizing the joy and purity of sharing. It represents a sense of innocence, purity, and fond memories from the past.",
+    "reversed_meaning": "Living in the past, forgiveness, lacking playfulness.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Seven of Cups",
+    "number": 7,
+    "symbols": [
+      "Floating Cups",
+      "Head",
+      "Shrouded Figure",
+      "Snake",
+      "Dragon",
+      "Castle"
+    ],
+    "meanings": [
+      "Opportunities",
+      "Choices",
+      "Wishful Thinking",
+      "Illusion"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Scorpio",
+    "upright_meaning": "The 7 of Cups prompts us to prioritize our values and goals, encouraging us to differentiate between what is truly important to us and what merely appears enticing in the moment. It serves as a gentle warning not to lose ourselves in a maze of illusions and distractions.",
+    "reversed_meaning": "Alignment, purpose, overwhelmed by choices.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Eight of Cups",
+    "number": 8,
+    "symbols": [
+      "Walking Figure",
+      "Eight Stacked Cups",
+      "Moon",
+      "Mountains"
+    ],
+    "meanings": [
+      "Disappointment",
+      "Abandonment",
+      "Withdrawal",
+      "Escapism"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Pisces",
+    "upright_meaning": "The 8 of Cups represents a significant turning point in one's life journey. It depicts a person walking away from a stack of cups, leaving behind what no longer serves them. The eight of cups signifies a deep desire within the individual to seek a more fulfilling path.",
+    "reversed_meaning": "Trying one more time, indecision, aimless drifting.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Nine of Cups",
+    "number": 9,
+    "symbols": [
+      "Seated Figure",
+      "Nine Cups in Arch",
+      "Crossed Arms"
+    ],
+    "meanings": [
+      "Contentment",
+      "Satisfaction",
+      "Gratitude",
+      "Wish Come True"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Pisces",
+    "upright_meaning": "The Nine of Cups Tarot card, often referred to as the \"Wish Card,\" represents a moment of fulfillment and deep satisfaction. Depicted on the card is a figure surrounded by nine golden cups, brimming with opulence and abundance. This card signals a period of personal contentment and emotional well-being, where dreams and aspirations have materialized into reality. It symbolizes a time when one's deepest desires have been fulfilled, and a sense of joy permeates every aspect of life. The Nine of Cups encourages us to appreciate the abundance in our lives and find contentment in the present moment.",
+    "reversed_meaning": "Inner happiness, materialism, dissatisfaction.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ten of Cups",
+    "number": 10,
+    "symbols": [
+      "Happy Family",
+      "Rainbow with Ten Cups",
+      "House"
+    ],
+    "meanings": [
+      "Divine Love",
+      "Blissful Relationships",
+      "Harmony",
+      "Alignment"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Pisces",
+    "upright_meaning": "Ten of Cups represents the ultimate state of emotional well-being, where deep connections and love are found within one's own family or chosen community. This card symbolizes finding peace and happiness in the loving relationships that bring us a sense of belonging and unity.",
+    "reversed_meaning": "Disconnected values, struggling relationships, disharmony.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Page of Cups",
+    "number": 11,
+    "symbols": [
+      "Youth",
+      "Cup with Fish",
+      "Ocean Waves",
+      "Feathered Hat"
+    ],
+    "meanings": [
+      "Creative Opportunities",
+      "Intuitive Messages",
+      "Curiosity",
+      "Possibility"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Pisces, Cancer",
+    "upright_meaning": "Page of Cups carries a message of new beginnings, urging us to express our feelings openly, and to embrace the tender and intuitive aspects of our being. It encourages us to approach life with curiosity, open-mindedness, and a childlike wonder, reminding us that embracing our emotions and creative pursuits can lead to personal growth and fulfillment.",
+    "reversed_meaning": "New ideas, doubting intuition, creative blocks.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Knight of Cups",
+    "number": 12,
+    "symbols": [
+      "Knight on Horse",
+      "Winged Helmet",
+      "Cup",
+      "River"
+    ],
+    "meanings": [
+      "Creativity",
+      "Romance",
+      "Charm",
+      "Imagination",
+      "Beauty"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Pisces, Scorpio",
+    "upright_meaning": "The Knight of Cups represents someone who possesses a dreamy and imaginative nature, always seeking love and connection. With his gentle and compassionate demeanor, he exudes an air of charm and allure. This card suggests that there may be a new romantic opportunity or an emotional journey on the horizon.",
+    "reversed_meaning": "Overactive imagination, unrealistic, jealous.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Queen of Cups",
+    "number": 13,
+    "symbols": [
+      "Queen on Throne",
+      "Ornate Cup",
+      "Sea Shells",
+      "Ocean"
+    ],
+    "meanings": [
+      "Compassionate",
+      "Caring",
+      "Emotionally Stable",
+      "Intuitive",
+      "In Flow"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Pisces, Cancer",
+    "upright_meaning": "The Queen of Cups tarot card represents compassion, intuition, and emotional balance. This regal and nurturing figure sits on a throne adorned with images of fish and holds a cup, symbolizing her deep connection to her emotions and the subconscious realm. Radiating with empathy, the Queen of Cups encourages us to listen to our intuition and trust our gut feelings. She reminds us to treat others with kindness and understanding, offering support and compassion to those in need. This card signifies a time of emotional stability, where we are in tune with our own feelings and can respond empathetically to the emotional needs of others. The Queen of Cups serves as a gentle reminder to nurture ourselves and others, fostering an environment of emotional well-being and understanding.",
+    "reversed_meaning": "Self-care, inner feelings, co-dependency.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "King of Cups",
+    "number": 14,
+    "symbols": [
+      "King on Throne",
+      "Cup",
+      "Scepter",
+      "Amulet",
+      "Rolling Sea",
+      "Ship",
+      "Fish"
+    ],
+    "meanings": [
+      "Emotionally Balanced",
+      "Compassionate",
+      "Diplomatic"
+    ],
+    "suit": "Cups",
+    "element": "Water",
+    "zodiac_sign": "Pisces",
+    "upright_meaning": "When we take a look at this card in various decks we can gain a more in depth understanding of the various aspects of the King of Cups card. In the Cosmic Slumber tarot the King of Cups is presented as a laid back individual who is unbothered by the elements of the rocky sea. As the waves knock him around and the sun beats down, he chills out on a seat of fishes. He takes things as they come, utilizing the tools at his disposal to maintain a positive outlook and emotional balance. His message is about not letting the outer world get you down or disturb your inner peace.",
+    "reversed_meaning": "Self-compassion, inner feelings, moodiness, emotional manipulation.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ace of Pentacles",
+    "number": 1,
+    "symbols": [
+      "Hand from Cloud",
+      "Large Pentacle",
+      "Garden",
+      "Path",
+      "Mountains"
+    ],
+    "meanings": [
+      "New Financial Opportunity",
+      "Manifestation",
+      "Abundance"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Taurus, Virgo, Capricorn",
+    "upright_meaning": "The Ace of Pentacles Tarot card represents a fresh start and the potential for new opportunities in the realm of material abundance. Depicted by a hand emerging from a cloud, holding a single golden pentacle, it signifies the beginning of a prosperous journey. This card symbolizes the manifestation of wealth, success, and growth in all aspects of life, be it finances, career, or relationships. It reminds us to embrace the power of practicality, hard work, and earthly achievements. With the Ace of Pentacles, we are inspired to lay a solid foundation for our goals, allowing our efforts to flourish and bear fruitful rewards. It is a call to seize the present moment, rooted in the physical realm, and embrace the bountiful possibilities that lie ahead.",
+    "reversed_meaning": "Lost opportunity, lack of planning, greed.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Two of Pentacles",
+    "number": 2,
+    "symbols": [
+      "Juggling Figure",
+      "Two Pentacles",
+      "Infinity Loop",
+      "Ships in Background"
+    ],
+    "meanings": [
+      "Multiple Priorities",
+      "Time Management",
+      "Prioritisation",
+      "Adaptability"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Capricorn",
+    "upright_meaning": "The Two of Pentacles Tarot card symbolizes the delicate balancing act we face in our lives. Depicted on the card is a figure juggling two pentacles with ease, despite the turbulent waves crashing in the background. This card reminds us of the importance of adaptability and flexibility in our endeavors. It suggests that we must learn to prioritize, multi-task, and maintain steady equilibrium in order to navigate the ever-changing circumstances that life presents. The card encourages us not to shy away from the challenges that come our way, but rather to embrace them with a sense of harmony and grace. Ultimately, the Two of Pentacles reminds us that with careful planning and resourcefulness, we can successfully manage the ebb and flow of life's demands.",
+    "reversed_meaning": "Overcommitted, disorganized, reprioritizing.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Three of Pentacles",
+    "number": 3,
+    "symbols": [
+      "Apprentice",
+      "Stonemasons",
+      "Church/Cathedral",
+      "Plans"
+    ],
+    "meanings": [
+      "Teamwork",
+      "Collaboration",
+      "Learning",
+      "Implementation"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Capricorn",
+    "upright_meaning": "This card highlights the power of collaboration and the rewards that come from working together towards a common goal. This card embodies the spirit of teamwork, reminding us of the importance of pooling our talents and abilities to manifest something truly remarkable.",
+    "reversed_meaning": "Lack of teamwork, disorganized, group conflict.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Four of Pentacles",
+    "number": 4,
+    "symbols": [
+      "Seated Figure",
+      "Four Pentacles",
+      "City Background"
+    ],
+    "meanings": [
+      "Conservation",
+      "Frugality",
+      "Security",
+      "Control"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Capricorn",
+    "upright_meaning": "The Four of Pentacles tarot card, depicted by a figure sitting rigidly on a golden throne, presents a powerful symbol of possession and control. This card conveys a sense of security and stability achieved through material wealth and the accumulation of resources. Despite the appearance of affluence, the figure tightly clutches four pentacles, unwilling to let go. This representation serves as a reminder of the potential pitfalls of tightly holding onto material possessions, leading to stagnation and reluctance to embrace change. The Four of Pentacles teaches us the importance of finding balance, appreciating our blessings while also remaining open and adaptable to life's transitions.",
+    "reversed_meaning": "Over-spending, greed, self-protection.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Five of Pentacles",
+    "number": 5,
+    "symbols": [
+      "Two People",
+      "Snow",
+      "Church Window",
+      "Crutches"
+    ],
+    "meanings": [
+      "Financial Loss",
+      "Poverty",
+      "Lack Mindset",
+      "Isolation"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Taurus",
+    "upright_meaning": "When this card appears in our draw, it acknowledges the challenges and hardships we may be facing. It reminds us that it's okay to ask for help and seek support when we need it most.",
+    "reversed_meaning": "Recovery from financial loss, spiritual poverty.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Six of Pentacles",
+    "number": 6,
+    "symbols": [
+      "Wealthy Man",
+      "Scales",
+      "Two Beggars",
+      "Money"
+    ],
+    "meanings": [
+      "Giving",
+      "Receiving",
+      "Sharing Wealth",
+      "Generosity",
+      "Charity"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Taurus",
+    "upright_meaning": "This card embodies generosity and the concept of give-and-take. Depicted on the card is a wealthy figure standing on a scale, distributing coins to those in need. This card signifies finding a balance between giving and receiving.",
+    "reversed_meaning": "Self-care, unpaid debts, one-sidedness.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Seven of Pentacles",
+    "number": 7,
+    "symbols": [
+      "Gardener",
+      "Pentacles on Bush",
+      "Staff",
+      "Harvest"
+    ],
+    "meanings": [
+      "Long-term View",
+      "Sustainable Results",
+      "Perseverance",
+      "Investment"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Taurus",
+    "upright_meaning": "Have patience that you will soon be reaping the rewards of your harvest. You\u2019ve planted many seeds and they will bear fruit. Take some time out to express gratitude for what you are about to receive. Your hard work and perseverance are about to pay off handsomely.",
+    "reversed_meaning": "Lack of long-term vision, limited reward, investment failures.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Eight of Pentacles",
+    "number": 8,
+    "symbols": [
+      "Craftsman",
+      "Eight Pentacles",
+      "Tools",
+      "Workplace"
+    ],
+    "meanings": [
+      "Apprenticeship",
+      "Repetitive Task",
+      "Mastery",
+      "Skill Development"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Virgo",
+    "upright_meaning": "The Eight of Pentacles reminds us that attention to detail and a strong work ethic are key components in reaching our goals. It encourages us to embrace a learning mindset and invest time and effort in developing our talents. This card serves as a reminder that through dedication and commitment, we can cultivate expertise and experiences that will contribute to our long-term growth and prosperity.",
+    "reversed_meaning": "Lack of focus, perfectionism, misdirected activity.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Nine of Pentacles",
+    "number": 9,
+    "symbols": [
+      "Woman in Garden",
+      "Nine Pentacles",
+      "Bird (Falcon)",
+      "Castle"
+    ],
+    "meanings": [
+      "Abundance",
+      "Luxury",
+      "Self-sufficiency",
+      "Financial Independence"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Virgo",
+    "upright_meaning": "This card represents a state of refinement, luxury, and material abundance. Depicted by a woman surrounded by lush vegetation and an elegant garden, this card signifies a high level of success, independence and self-sufficiency.",
+    "reversed_meaning": "Self-worth, over-investment in work, hustle culture.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ten of Pentacles",
+    "number": 10,
+    "symbols": [
+      "Old Man",
+      "Family",
+      "Dogs",
+      "Ten Pentacles in Tree of Life Pattern"
+    ],
+    "meanings": [
+      "Wealth",
+      "Financial Security",
+      "Family",
+      "Long-term Success",
+      "Contribution"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Virgo",
+    "upright_meaning": "The Ten of Pentacles signifies a culmination of abundance and stability in one's material and financial realms. Representing the pinnacle of success and prosperity, this card indicates a harmonious and prosperous family life. Enjoying life with ease and joy, without struggle. It represents living in happiness, well being and flourishing, in a state of Eudaimonia.",
+    "reversed_meaning": "The dark side of wealth, financial failure or loss.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Page of Pentacles",
+    "number": 11,
+    "symbols": [
+      "Youth",
+      "Pentacle",
+      "Fertile Field",
+      "Mountains"
+    ],
+    "meanings": [
+      "Manifestation",
+      "Financial Opportunity",
+      "Skill Development"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Capricorn, Virgo",
+    "upright_meaning": "The Page of Pentacles brings forth exciting financial opportunities. This card signifies a time of growth and exploration in the realm of money and resources. Just like the diligent and studious Page, you may find yourself eager to learn new skills or embark on a new venture that promises financial stability.",
+    "reversed_meaning": "Lack of progress, procrastination, learn from failure.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Knight of Pentacles",
+    "number": 12,
+    "symbols": [
+      "Knight on Heavy Horse",
+      "Pentacle",
+      "Plowed Field"
+    ],
+    "meanings": [
+      "Hard Work",
+      "Productivity",
+      "Routine",
+      "Conservatism"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Virgo",
+    "upright_meaning": "Financial progress and stability. This card symbolizes determination, diligence, and expansion. The Knight of Pentacles Reversed - No.",
+    "reversed_meaning": "Self-discipline, boredom, feeling stuck, perfectionism.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Queen of Pentacles",
+    "number": 13,
+    "symbols": [
+      "Queen on Throne",
+      "Pentacle",
+      "Rabbit",
+      "Rose Garden"
+    ],
+    "meanings": [
+      "Nurturing",
+      "Practical",
+      "Providing Financially",
+      "A Working Parent"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Taurus",
+    "upright_meaning": "Representing abundance, nurturing, and practicality, The Queen of Pentacles is a ye. She encourages us to embody these qualities in our daily lives. The Queen's presence reminds us to find balance in our material and spiritual pursuits.",
+    "reversed_meaning": "Financial independence, self-care, work-life balance.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "King of Pentacles",
+    "number": 14,
+    "symbols": [
+      "King on Throne",
+      "Pentacle",
+      "Scepter",
+      "Bull's Heads",
+      "Grapes",
+      "Castle"
+    ],
+    "meanings": [
+      "Wealth",
+      "Business",
+      "Leadership",
+      "Security",
+      "Abundance"
+    ],
+    "suit": "Pentacles",
+    "element": "Earth",
+    "zodiac_sign": "Taurus, Capricorn",
+    "upright_meaning": "Yes. Economic Power. Themes - Vision and Security. King of Pentacles embodies the spirit of prosperity and stability. Representing a powerful presence and an unwavering commitment to success, the King of Pentacles offers a calming influence and a practical approach to life.",
+    "reversed_meaning": "Financially inept, obsessive about wealth and status, stubborn.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ace of Swords",
+    "number": 1,
+    "symbols": [
+      "Hand from Cloud",
+      "Upright Sword",
+      "Crown",
+      "Laurel Wreath"
+    ],
+    "meanings": [
+      "Breakthroughs",
+      "New Ideas",
+      "Mental Clarity",
+      "Success"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Gemini, Libra, Aquarius",
+    "upright_meaning": "Signifies a fresh start or a new idea that has the potential to bring about significant positive change in your life. It represents the spark of inspiration and the emergence of a new perspective or understanding.",
+    "reversed_meaning": "Inner clarity, re-thinking an idea, clouded judgement.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Two of Swords",
+    "number": 2,
+    "symbols": [
+      "Blindfolded Woman",
+      "Two Crossed Swords",
+      "Craggy Rocks",
+      "Moon"
+    ],
+    "meanings": [
+      "Difficult Decisions",
+      "Weighing up Options",
+      "An Impasse",
+      "Avoidance"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Libra",
+    "upright_meaning": "This card encourages you to remove the blindfold and honestly assess the situation at hand. It may be necessary to weigh the pros and cons of different options, gather more information, or seek guidance from others to help you make an informed decision.",
+    "reversed_meaning": "Indecision, confusion, information overload.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Three of Swords",
+    "number": 3,
+    "symbols": [
+      "Heart Pierced by Three Swords",
+      "Rain",
+      "Clouds"
+    ],
+    "meanings": [
+      "Heartbreak",
+      "Emotional Pain",
+      "Sorrow",
+      "Grief",
+      "Hurt"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Libra",
+    "upright_meaning": "This card symbolizes pain, sorrow, heartbreak, and disappointment. The 3 of Swords brings forth a bittersweet energy. The imagery of three swords piercing through a heart symbolizes the pain and hurt that often accompanies the process of healing and growth. It reminds us that sometimes we must face difficult emotions head-on in order to find true resolution.",
+    "reversed_meaning": "Negative self-talk, releasing pain, optimism, forgiveness.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Four of Swords",
+    "number": 4,
+    "symbols": [
+      "Knight Effigy",
+      "Three Swords on Wall",
+      "One Sword Beneath",
+      "Stained Glass Window"
+    ],
+    "meanings": [
+      "Rest",
+      "Relaxation",
+      "Meditation",
+      "Contemplation",
+      "Recuperation"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Libra",
+    "upright_meaning": "When this card appears in a reading, it suggests that we may have been pushing ourselves too hard or experiencing overwhelming mental and emotional exhaustion. It invites us to prioritize self-care and seek refuge in moments of stillness. This card reassures us that rest is not a sign of weakness but rather an essential part of the process to restore our energy and regain clarity.",
+    "reversed_meaning": "Exhaustion, burnout, deep contemplation, stagnant.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Five of Swords",
+    "number": 5,
+    "symbols": [
+      "Winning Figure",
+      "Two Defeated Figures",
+      "Five Swords",
+      "Jagged Clouds"
+    ],
+    "meanings": [
+      "Conflict",
+      "Disagreements",
+      "Competition",
+      "Defeat",
+      "Winning at all Costs"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Aquarius",
+    "upright_meaning": "The Five of Swords urges us to evaluate our actions and motivations, reminding us that true strength lies in finding common ground and resolving conflicts peacefully rather than solely aiming for personal gain.",
+    "reversed_meaning": "Reconcialiation, making amends, past resentment.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Six of Swords",
+    "number": 6,
+    "symbols": [
+      "Boat",
+      "Ferryman",
+      "Six Swords in Boat",
+      "Land in Distance"
+    ],
+    "meanings": [
+      "Transition",
+      "Change",
+      "Rite of Passage",
+      "Releasing Baggage"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Aquarius",
+    "upright_meaning": "When this card emerges, it brings with it a sense of calm and transition. As we embark on this journey, we find solace in leaving behind turbulent waters and moving towards a more peaceful horizon.",
+    "reversed_meaning": "Personal transition, resistance to change, unfinished business.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Seven of Swords",
+    "number": 7,
+    "symbols": [
+      "Man Sneaking Away",
+      "Five Swords Held",
+      "Two Swords in Ground",
+      "Tents"
+    ],
+    "meanings": [
+      "Betrayal",
+      "Deception",
+      "Getting away with something",
+      "Acting Strategically"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Aquarius",
+    "upright_meaning": "When the Seven of Swords presents itself, it serves as a reminder to tread cautiously in our interactions with others. There may be individuals who harbor ulterior motives, hidden motives that don't align with our own best interests.",
+    "reversed_meaning": "Imposter syndrome, self-deceit, keeping secrets.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Eight of Swords",
+    "number": 8,
+    "symbols": [
+      "Bound and Blindfolded Woman",
+      "Eight Swords in Semi-circle",
+      "Castle",
+      "Water"
+    ],
+    "meanings": [
+      "Negative Thoughts",
+      "Self-imposed Restriction",
+      "Imprisonment",
+      "Victim Mentality"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Gemini",
+    "upright_meaning": "Eight of Swords reminds us that the power to break free from our own mental boundaries lies within us. It calls us to examine our fears and self-limiting beliefs, encouraging us to find the courage to take off the blindfold, untie the bonds, and embrace the freedom that is waiting just beyond our self-imposed constraints.",
+    "reversed_meaning": "Self-belief, release, new perspective, freedom.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Nine of Swords",
+    "number": 9,
+    "symbols": [
+      "Person in Bed",
+      "Nine Swords on Wall",
+      "Hands over Face",
+      "Coverlet with Symbols"
+    ],
+    "meanings": [
+      "Anxiety",
+      "Worry",
+      "Fear",
+      "Depression",
+      "Nightmares"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Gemini",
+    "upright_meaning": "This card presents us with an opportunity to confront our deepest fears. As we wake up with this card in our minds, it serves as a timely reminder to acknowledge and tackle the underlying anxieties that may be holding us back. It reminds us that it is only by shining a light on our fears that we can begin to understand and ultimately heal ourselves.",
+    "reversed_meaning": "Inner turmoil, deep-seated fears, secrets, releasing worry.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Ten of Swords",
+    "number": 10,
+    "symbols": [
+      "Figure with Ten Swords in Back",
+      "Black Sky",
+      "Sunrise",
+      "Ocean"
+    ],
+    "meanings": [
+      "Deepest Pit",
+      "Betrayal",
+      "Loss",
+      "Crisis",
+      "Endings"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Gemini",
+    "upright_meaning": "This card signals a release from suffering. The end of a painful situation. Leaving behind what no longer serves you, allowing space for renewal, healing, and a fresh start. Remember, even in the darkest hour, there is always a glimmer of hope on the horizon.",
+    "reversed_meaning": "Recovery, regeneration, resisting an inevitable end.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Page of Swords",
+    "number": 11,
+    "symbols": [
+      "Youth",
+      "Sword Held High",
+      "Clouds",
+      "Birds"
+    ],
+    "meanings": [
+      "New Ideas",
+      "Curiosity",
+      "Thirst for Knowledge",
+      "New Communication"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Libra, Aquarius",
+    "upright_meaning": "The Page of Swords, with his sharp intellect and insatiable curiosity, serves as a powerful symbol of the innate human pursuit of knowledge and the unyielding thirst for continuous learning. It portrays a figure who eagerly dives into unfamiliar territories, wielding his sword of wisdom as he fearlessly uncovers new truths and explores uncharted realms of understanding. With each step taken along this intellectual journey, the Page of Swords reminds us of the immense power held within the desire to expand our minds and embrace the wonders that await us on the path of enlightenment.",
+    "reversed_meaning": "Self-expression, all talk and no action, haphazard action.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Knight of Swords",
+    "number": 12,
+    "symbols": [
+      "Knight on Charging Horse",
+      "Sword Forward",
+      "Fierce Wind",
+      "Clouds"
+    ],
+    "meanings": [
+      "Ambitious",
+      "Action-oriented",
+      "Driven to Succeed",
+      "Fast-thinking"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Aquarius",
+    "upright_meaning": "This Tarot card depicts a figure charging forward on a powerful steed, wielding a sword with determination and intensity. This card signifies a burst of swift and focused energy, representing an individual who is driven by ambition and the pursuit of their goals.",
+    "reversed_meaning": "Restless, unfocused, impulsive, burn-out.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Queen of Swords",
+    "number": 13,
+    "symbols": [
+      "Queen on Throne",
+      "Sword Upright",
+      "Hand Extended",
+      "Clouds",
+      "Bird"
+    ],
+    "meanings": [
+      "Independent",
+      "Unbiased Judgement",
+      "Clear Communication",
+      "Direct"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Libra",
+    "upright_meaning": "The Queen holds a sword in her hand, ready to cut away anything that no longer serves. Take a methodical approach to tasks, organized thinking will lead to victory. She asks you to be honest and unbiased in your thinking.",
+    "reversed_meaning": "Overly-emotional, cold-hearted, cruel, bitter.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "King of Swords",
+    "number": 14,
+    "symbols": [
+      "King on Throne",
+      "Sword Held Flat",
+      "Blue Sky",
+      "Butterflies on Throne"
+    ],
+    "meanings": [
+      "Mental Clarity",
+      "Intellectual Power",
+      "Authority",
+      "Truth"
+    ],
+    "suit": "Swords",
+    "element": "Air",
+    "zodiac_sign": "Libra, Aquarius",
+    "upright_meaning": "King of Swords urges us to harness our mental prowess and tap into our inner wisdom to navigate any challenges that may come our way. With his discerning mind and sharp focus, this card reminds us to seek truth, embrace logic, and approach situations with fairness and objectivity.",
+    "reversed_meaning": "Quiet power, inner truth, misuse of power, manipulative.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ace of Wands",
+    "number": 1,
+    "symbols": [
+      "Hand from Cloud",
+      "Sprouting Wand",
+      "Castle",
+      "Landscape"
+    ],
+    "meanings": [
+      "Inspiration",
+      "New Opportunities",
+      "Growth",
+      "Potential"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Aries, Leo, Sagittarius",
+    "upright_meaning": "Ace of Wands daily card meaning. Ace of Wands card of the day signifies the new beginnings, inspiration, and creativity. The Ace of Wands depicts a hand holding a wand that is sprouting new leaves. This wand represents the potential of creativity, passion, and action.",
+    "reversed_meaning": "Emerging idea, lack of direction, distractions.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Two of Wands",
+    "number": 2,
+    "symbols": [
+      "Figure on Battlements",
+      "Globe",
+      "Two Wands",
+      "Sea and Land"
+    ],
+    "meanings": [
+      "Future Planning",
+      "Progress",
+      "Decisions",
+      "Discovery"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Aries",
+    "upright_meaning": "2 of Wands is a symbol of vision, ambition, and progress. In the card, a man stands on a balcony holding a globe in one hand and a wand in the other. He looks out into the distance, contemplating his future plans and potential paths.",
+    "reversed_meaning": "Personal goals, inner alignment, fear of unknown.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Three of Wands",
+    "number": 3,
+    "symbols": [
+      "Figure Looking at Sea",
+      "Three Wands in Ground",
+      "Ships"
+    ],
+    "meanings": [
+      "Expansion",
+      "Foresight",
+      "Overseas Opportunities"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Aries",
+    "upright_meaning": "The Three of Wands is a card of anticipation and progress. Keep working towards your goal, because you are headed in the right direction. Watch for the signs of success and know that your dreams are on their way.",
+    "reversed_meaning": "Playing safe, lack of planning, delayed success.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Four of Wands",
+    "number": 4,
+    "symbols": [
+      "Four Wands",
+      "Floral Garland",
+      "Celebrating People",
+      "Castle"
+    ],
+    "meanings": [
+      "Celebration",
+      "Joy",
+      "Harmony",
+      "Relaxation",
+      "Home"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Aries",
+    "upright_meaning": "It is a time to celebrate with your loved ones and revel in the happiness that surrounds you. Whether it is a birthday, a promotion, or simply a new chapter in your life, take the time to appreciate your accomplishments and lift yourself up with positivity.",
+    "reversed_meaning": "Personal celebration, inner harmony, transition.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Five of Wands",
+    "number": 5,
+    "symbols": [
+      "Five Youths",
+      "Wands Clashing",
+      "Competition"
+    ],
+    "meanings": [
+      "Conflict",
+      "Disagreements",
+      "Competition",
+      "Tensions",
+      "Diversity"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Leo",
+    "upright_meaning": "5 of Wands indicates a sense of competition or rivalry at play. This might be in the area of work, relationships, or personal goals. Five of Wands often reflects a situation where there is a lot of energy and enthusiasm, but also a lot of tension and agitation.",
+    "reversed_meaning": "Inner conflict, avoiding conflict, reconciliation.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Six of Wands",
+    "number": 6,
+    "symbols": [
+      "Mounted Figure",
+      "Laurel Wreath",
+      "Six Wands",
+      "Crowd"
+    ],
+    "meanings": [
+      "Success",
+      "Public Recognition",
+      "Progress",
+      "Self-confidence"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Leo",
+    "upright_meaning": "Six of Wands Daily Card - When this card appears in a reading, it may indicate that the individual has triumphed over a challenge or a series of obstacles. It suggests that the person is receiving recognition and praise for their achievements, and that they are basking in the glory of their success.",
+    "reversed_meaning": "Private achievement, fall from grace, egotism.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Seven of Wands",
+    "number": 7,
+    "symbols": [
+      "Figure on Hill",
+      "Six Wands Below",
+      "One Wand Held",
+      "Mismatched Shoes"
+    ],
+    "meanings": [
+      "Challenge",
+      "Competition",
+      "Protection",
+      "Perseverance"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Leo",
+    "upright_meaning": "The Seven of Wands has emerged from the deck today, bringing with it a fiery and determined energy that encourages us to stand our ground and defend our beliefs. This card reminds us that facing challenges and overcoming obstacles is an integral part of personal growth and advancement.",
+    "reversed_meaning": "Exhaustion, giving up, overwhelmed.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Eight of Wands",
+    "number": 8,
+    "symbols": [
+      "Eight Wands in Air",
+      "River",
+      "Landscape"
+    ],
+    "meanings": [
+      "Speed",
+      "Action",
+      "Air Travel",
+      "Movement",
+      "Quick Decisions"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Sagittarius",
+    "upright_meaning": "8 of Wands suggests that things are about to speed up in your life. You may experience a sudden burst of energy or a surge of momentum in your projects, relationships, or personal goals. This card indicates that obstacles or delays that were previously holding you back will now start to dissipate, allowing for progress and forward movement.",
+    "reversed_meaning": "Slowing down, delays, frustration, internal alignment.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Nine of Wands",
+    "number": 9,
+    "symbols": [
+      "Injured Figure",
+      "Standing Wands",
+      "Bandage"
+    ],
+    "meanings": [
+      "Resilience",
+      "Courage",
+      "Persistence",
+      "Test of Faith",
+      "Boundaries"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Sagittarius",
+    "upright_meaning": "The Nine of Wands typically represents resilience, perseverance, and determination. It often symbolizes a period of challenges and obstacles, but also highlights your inner strength and the ability to overcome adversity.",
+    "reversed_meaning": "Inner strength, struggle, defensive, paranoia.",
+    "yes_no": "No"
+  },
+  {
+    "name": "Ten of Wands",
+    "number": 10,
+    "symbols": [
+      "Figure Carrying Ten Wands",
+      "Town in Distance"
+    ],
+    "meanings": [
+      "Burden",
+      "Extra Responsibility",
+      "Hard Work",
+      "Completion"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Sagittarius",
+    "upright_meaning": "When the Ten of Wands appears in a tarot reading, it suggests that you may be shouldering too many responsibilities or taking on more than you can handle. You may feel overwhelmed, exhausted, or weighed down by the tasks and obligations in your life.",
+    "reversed_meaning": "Doing it all, carrying the burden, delegation, release.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Page of Wands",
+    "number": 11,
+    "symbols": [
+      "Youth",
+      "Wand",
+      "Desert",
+      "Mountains",
+      "Salamanders on Tunic"
+    ],
+    "meanings": [
+      "Inspiration",
+      "Ideas",
+      "Discovery",
+      "Limitless Potential"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Aries, Sagittarius",
+    "upright_meaning": "When the Page of Wands appears in a tarot reading, it suggests that you may be embarking on a new journey or taking on a new role or responsibility. You may feel inspired and motivated to pursue your passions and explore new opportunities.",
+    "reversed_meaning": "Newly-formed ideas, redirection, lack of direction.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Knight of Wands",
+    "number": 12,
+    "symbols": [
+      "Knight on Charging Horse",
+      "Wand",
+      "Salamander Pattern"
+    ],
+    "meanings": [
+      "Energy",
+      "Passion",
+      "Inspired Action",
+      "Adventure",
+      "Impulsiveness"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Sagittarius",
+    "upright_meaning": "When the Knight of Wands appears in a Tarot reading, get ready for a burst of fire energy and inspiration. This enthusiastic and passionate knight embodies the spirit of action, adventure, and innovation. He's the adventurer who doesn't hesitate to blaze a new trail, to take risks, and to follow his passion.",
+    "reversed_meaning": "Passion project, haste, scattered energy, delays.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Queen of Wands",
+    "number": 13,
+    "symbols": [
+      "Queen on Throne",
+      "Wand",
+      "Sunflowers",
+      "Black Cat",
+      "Lions on Throne"
+    ],
+    "meanings": [
+      "Courage",
+      "Confidence",
+      "Independence",
+      "Social Butterfly",
+      "Determination"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Leo",
+    "upright_meaning": "When the Queen of Wands appears in a tarot reading, it suggests that you possess or need to embody the qualities of the Queen. You are confident, assertive, and passionate about what you believe in. You have a magnetic presence and the ability to inspire and lead others with your enthusiasm and charisma.",
+    "reversed_meaning": "Self-confidence, introversion, re-establishing confidence.",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "King of Wands",
+    "number": 14,
+    "symbols": [
+      "King on Throne",
+      "Wand",
+      "Salamanders",
+      "Lions",
+      "Crown of Fire"
+    ],
+    "meanings": [
+      "Natural-born Leader",
+      "Visionary",
+      "Entrepreneur",
+      "Honour"
+    ],
+    "suit": "Wands",
+    "element": "Fire",
+    "zodiac_sign": "Aries, Leo",
+    "upright_meaning": "The King of Wands represents leadership, ambition, and creativity. It often symbolizes a strong and influential individual who is charismatic, assertive, and passionate about their endeavors. The King of Wands also signifies ambition and drive. You have a clear vision of what you want to accomplish, and you're willing to put in the necessary effort and energy to make it happen.",
+    "reversed_meaning": "Impulsiveness, haste, ruthless, high expectations.",
+    "yes_no": "Yes"
+  }
+]
